@@ -25,7 +25,7 @@ In this role, I closely partner with the Head of Developer Productivity and mana
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=GJOWlDv_Fcs">State of Sorbet</a></li>
-<li><a href="https://www.youtube.com/watch?v=Gdx6by6tcvw">Gradual typing for Ruby at Scale with Sorbey</a></li>
+<li><a href="https://www.youtube.com/watch?v=Gdx6by6tcvw">Gradual typing for Ruby at Scale with Sorbet</a></li>
 <li><a href="https://www.youtube.com/watch?v=8mFl8fywIP4">Adventures in Efficiency and Performance</a></li>
 <li><a href="https://d-d.me/site/presentations/">Earlier presentations</a></li>
 </ul>
